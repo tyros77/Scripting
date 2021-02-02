@@ -1,5 +1,5 @@
 # Author: tyros77
-# A script to reads information from /proc/<PID>/stat
+# A script that reads information from /proc/<PID>/stat
 
 #!/usr/bin/python3
 import sys
