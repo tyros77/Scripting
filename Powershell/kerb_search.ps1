@@ -1,5 +1,8 @@
 # Author: tyros77
 # Script to parse DC security log for TGS requests to identify Kerberos attacks
+# cpname - the name of the server
+# t = number of hours to go back in log from current time
+# start - where it starts in the log file (current time - t)
 
 $cpname = $args[0]
 $t = $args[1]
