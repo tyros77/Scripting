@@ -11,6 +11,7 @@ Collection of my scripts
 * myhexdump.py - Simple hex dump program in python completed as a school project
 * proc_struct.py - This script gets all running processes from /proc and creates an internal structure process tree
 * read_proc.py - A script that reads information from /proc/<PID>/stat
+* simple_c02.py - This is a simple C02 detector for the beaglebone black utilizing an SGP20 Gas sensor, created as a group project for school
   
 ## C
 * myhexdump.c - Simple hex dump completed as a school project
